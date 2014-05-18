@@ -13,6 +13,8 @@ public class Main {
 	{
 		System.out.println("affichage 1");
 		System.out.println("affichage 2");
+		
+		System.out.println("test2");
 	}
 
 }
